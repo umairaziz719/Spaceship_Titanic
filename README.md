@@ -1,17 +1,15 @@
 <!--
 <h2 align="center">
-  Group Project - Kaggle Challenge 
+  Spaceship_Titanic - Kaggle Challenge 
 </h2>
-<h3 align="center">
-7PAM2015-0105--2023-Team1
-</h3>
+
 -->
 <!-- Intro  -->
 <h1 align="center">
-        <samp>&gt; Group Project - Kaggle Challenge
+        <samp>&gt; Spaceship_Titanic - Kaggle Challenge
           <br>
-                <b><a target="_blank" href="https://github.com/7PAM2015-0105-2023-Team1">
-7PAM2015-0105--2023-Team1</a></b>
+                <b><a target="_blank" href="[https://github.com/7PAM2015-0105-2023-Team1](https://github.com/umairaziz719/Spaceship_Titanic)">
+7PAM2015-0105--2023</a></b>
         </samp>
 </h1>
 
@@ -35,15 +33,7 @@
 
 
 <!-- About Section -->
- # Group Members
- ### Features
-- Arsalan Khan
-- Muhammad Umair
-- Ejaz Malik
-- Ehsan Tabassum
-- Muhammad Hanzala
-- Muhammad Hamza Naseer
-
+- Umair Aziz
 <br/>
 
 ## Tools Used in the Project
